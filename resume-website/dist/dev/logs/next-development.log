@@ -1,0 +1,38 @@
+{"timestamp":"00:00:01.618","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:13.048","source":"Server","level":"LOG","message":"○ Compiling / ..."}
+{"timestamp":"00:00:16.133","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:02:52.276","source":"Server","level":"LOG","message":"✓ Compiled in 1168ms"}
+{"timestamp":"00:03:13.851","source":"Server","level":"LOG","message":"✓ Compiled in 129ms"}
+{"timestamp":"00:08:52.908","source":"Server","level":"LOG","message":"✓ Compiled in 269ms"}
+{"timestamp":"00:10:15.036","source":"Server","level":"LOG","message":"✓ Compiled in 106ms"}
+{"timestamp":"00:14:07.400","source":"Server","level":"LOG","message":"✓ Compiled in 177ms"}
+{"timestamp":"00:14:25.317","source":"Server","level":"LOG","message":"✓ Compiled in 127ms"}
+{"timestamp":"00:17:02.162","source":"Server","level":"LOG","message":"✓ Compiled in 345ms"}
+{"timestamp":"00:17:07.776","source":"Server","level":"LOG","message":"✓ Compiled in 289ms"}
+{"timestamp":"00:19:25.737","source":"Server","level":"LOG","message":"✓ Compiled in 174ms"}
+{"timestamp":"00:19:30.792","source":"Server","level":"LOG","message":"✓ Compiled in 198ms"}
+{"timestamp":"00:20:05.724","source":"Server","level":"LOG","message":"✓ Compiled in 163ms"}
+{"timestamp":"00:21:34.622","source":"Server","level":"LOG","message":"✓ Compiled in 150ms"}
+{"timestamp":"00:22:52.311","source":"Server","level":"LOG","message":"✓ Compiled in 166ms"}
+{"timestamp":"00:23:41.235","source":"Server","level":"LOG","message":"✓ Compiled in 156ms"}
+{"timestamp":"00:24:46.082","source":"Server","level":"LOG","message":"✓ Compiled in 284ms"}
+{"timestamp":"00:24:56.598","source":"Server","level":"LOG","message":"✓ Compiled in 149ms"}
+{"timestamp":"00:27:55.551","source":"Server","level":"LOG","message":"✓ Compiled in 158ms"}
+{"timestamp":"00:29:16.312","source":"Server","level":"LOG","message":"✓ Compiled in 160ms"}
+{"timestamp":"00:29:22.813","source":"Server","level":"LOG","message":"✓ Compiled in 152ms"}
+{"timestamp":"00:29:34.522","source":"Server","level":"ERROR","message":"⨯ TypeError: Cannot convert argument to a ByteString because the character at index 255 has a value of 28145 which is greater than 255."}
+{"timestamp":"00:29:34.532","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:29:34.860","source":"Server","level":"ERROR","message":"⨯ TypeError: Cannot convert argument to a ByteString because the character at index 255 has a value of 28145 which is greater than 255."}
+{"timestamp":"00:29:35.047","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:30:17.010","source":"Server","level":"LOG","message":"✓ Compiled in 153ms"}
+{"timestamp":"00:38:16.882","source":"Server","level":"LOG","message":"✓ Compiled in 392ms"}
+{"timestamp":"00:38:41.654","source":"Server","level":"ERROR","message":"⨯ TypeError: Cannot convert argument to a ByteString because the character at index 255 has a value of 28145 which is greater than 255."}
+{"timestamp":"00:38:41.661","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:38:42.050","source":"Server","level":"ERROR","message":"⨯ TypeError: Cannot convert argument to a ByteString because the character at index 255 has a value of 28145 which is greater than 255."}
+{"timestamp":"00:38:42.183","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:40:11.293","source":"Server","level":"LOG","message":"✓ Compiled in 229ms"}
+{"timestamp":"00:42:26.131","source":"Server","level":"LOG","message":"✓ Compiled in 334ms"}
+{"timestamp":"00:46:15.361","source":"Server","level":"LOG","message":"✓ Compiled in 244ms"}
+{"timestamp":"00:46:40.618","source":"Server","level":"LOG","message":"✓ Compiled in 226ms"}
+{"timestamp":"00:47:43.753","source":"Server","level":"LOG","message":"✓ Compiled in 223ms"}
+{"timestamp":"00:48:35.938","source":"Server","level":"LOG","message":"✓ Compiled in 275ms"}

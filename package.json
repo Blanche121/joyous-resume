@@ -1,9 +1,4 @@
 {
-<<<<<<< HEAD
-  "dependencies": {
-    "pdf-parse": "^2.4.5",
-    "pdfjs-dist": "^5.6.205"
-=======
   "name": "resume-website",
   "version": "0.1.0",
   "private": true,
@@ -30,6 +25,5 @@
     "eslint-config-next": "16.2.3",
     "tailwindcss": "^4",
     "typescript": "^5"
->>>>>>> ccaa3b841e26073f17745a046113f433d70b2442
   }
 }

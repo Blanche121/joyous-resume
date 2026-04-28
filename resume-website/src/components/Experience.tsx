@@ -1,12 +1,18 @@
 "use client";
 
+"use client";
+
 import { motion } from "framer-motion";
 import { Briefcase, BookOpen, Calendar, MapPin } from "lucide-react";
 import { SectionTitle } from "./SectionTitle";
 import { experiences } from "@/data/experience";
-import type { Experience as ExperienceType } from "@/data/experience";
+import type { Experience as BaseExperienceType } from "@/data/experience";
 import { leadershipExperiences } from "@/data/leadership";
 import { cn } from "@/lib/utils";
+
+type ExperienceType = BaseExperienceType & {
+  organizationLink?: string;
+};
 
 function ExperienceCard({ exp, index }: { exp: ExperienceType; index: number }) {
   const getTypeColor = () => {

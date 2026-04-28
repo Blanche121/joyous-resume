@@ -4,7 +4,12 @@ import { useState } from "react";
 import { motion } from "framer-motion";
 import { Database, Gamepad2, ExternalLink, Code2, FileText, Download, MessageCircle } from "lucide-react";
 import { SectionTitle } from "./SectionTitle";
-import { portfolioItems, PortfolioItem } from "@/data/portfolio";
+import { portfolioItems } from "@/data/portfolio";
+import type { PortfolioItem as BasePortfolioItem } from "@/data/portfolio";
+
+type PortfolioItem = BasePortfolioItem & {
+  demoLabel?: string;
+};
 import { cn } from "@/lib/utils";
 
 type TabType = "data" | "game";

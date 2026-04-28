@@ -2037,6 +2037,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$
 var __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$src$2f$data$2f$experience$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/CodeBuddy/20260412150338/resume-website/src/data/experience.ts [app-client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$src$2f$data$2f$leadership$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/CodeBuddy/20260412150338/resume-website/src/data/leadership.ts [app-client] (ecmascript)");
 "use client";
+"use client";
 ;
 ;
 ;
@@ -2103,7 +2104,7 @@ function ExperienceCard({ exp, index }) {
                                 className: "w-10 h-10 rounded-lg object-contain"
                             }, void 0, false, {
                                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                                lineNumber: 35,
+                                lineNumber: 41,
                                 columnNumber: 13
                             }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: `p-2 ${typeColors.bg} rounded-lg`,
@@ -2111,12 +2112,12 @@ function ExperienceCard({ exp, index }) {
                                     className: `w-5 h-5 ${typeColors.text}`
                                 }, void 0, false, {
                                     fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                                    lineNumber: 42,
+                                    lineNumber: 48,
                                     columnNumber: 15
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                                lineNumber: 41,
+                                lineNumber: 47,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2133,20 +2134,20 @@ function ExperienceCard({ exp, index }) {
                                                 children: "↗"
                                             }, void 0, false, {
                                                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                                                lineNumber: 54,
+                                                lineNumber: 60,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                                        lineNumber: 47,
+                                        lineNumber: 53,
                                         columnNumber: 15
                                     }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                         className: "font-bold text-lg text-slate-800",
                                         children: exp.organization
                                     }, void 0, false, {
                                         fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                                        lineNumber: 57,
+                                        lineNumber: 63,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2154,19 +2155,19 @@ function ExperienceCard({ exp, index }) {
                                         children: exp.title
                                     }, void 0, false, {
                                         fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                                        lineNumber: 59,
+                                        lineNumber: 65,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                                lineNumber: 45,
+                                lineNumber: 51,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                        lineNumber: 33,
+                        lineNumber: 39,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -2174,13 +2175,13 @@ function ExperienceCard({ exp, index }) {
                         children: exp.type === "work" ? "实习" : exp.type === "research" && exp.organization.includes("MCM/ICM") ? "竞赛" : exp.type === "research" ? "研究" : "个人"
                     }, void 0, false, {
                         fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                        lineNumber: 62,
+                        lineNumber: 68,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                lineNumber: 32,
+                lineNumber: 38,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2193,7 +2194,7 @@ function ExperienceCard({ exp, index }) {
                                 size: 14
                             }, void 0, false, {
                                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                                lineNumber: 70,
+                                lineNumber: 76,
                                 columnNumber: 11
                             }, this),
                             exp.startDate,
@@ -2202,7 +2203,7 @@ function ExperienceCard({ exp, index }) {
                         ]
                     }, void 0, true, {
                         fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                        lineNumber: 69,
+                        lineNumber: 75,
                         columnNumber: 9
                     }, this),
                     exp.location && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -2212,20 +2213,20 @@ function ExperienceCard({ exp, index }) {
                                 size: 14
                             }, void 0, false, {
                                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                                lineNumber: 75,
+                                lineNumber: 81,
                                 columnNumber: 13
                             }, this),
                             exp.location
                         ]
                     }, void 0, true, {
                         fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                        lineNumber: 74,
+                        lineNumber: 80,
                         columnNumber: 11
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                lineNumber: 68,
+                lineNumber: 74,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -2241,7 +2242,7 @@ function ExperienceCard({ exp, index }) {
                                 className: "mt-1.5 w-1.5 h-1.5 bg-blue-400 rounded-full flex-shrink-0"
                             }, void 0, false, {
                                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                                lineNumber: 89,
+                                lineNumber: 95,
                                 columnNumber: 15
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -2251,26 +2252,26 @@ function ExperienceCard({ exp, index }) {
                                         children: prefix
                                     }, void 0, false, {
                                         fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                                        lineNumber: 91,
+                                        lineNumber: 97,
                                         columnNumber: 17
                                     }, this),
                                     suffix
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                                lineNumber: 90,
+                                lineNumber: 96,
                                 columnNumber: 15
                             }, this)
                         ]
                     }, i, true, {
                         fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                        lineNumber: 88,
+                        lineNumber: 94,
                         columnNumber: 13
                     }, this);
                 })
             }, void 0, false, {
                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                lineNumber: 82,
+                lineNumber: 88,
                 columnNumber: 7
             }, this),
             exp.technologies && exp.technologies.length > 0 && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2282,23 +2283,23 @@ function ExperienceCard({ exp, index }) {
                             children: tech
                         }, tech, false, {
                             fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                            lineNumber: 104,
+                            lineNumber: 110,
                             columnNumber: 15
                         }, this))
                 }, void 0, false, {
                     fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                    lineNumber: 102,
+                    lineNumber: 108,
                     columnNumber: 11
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                lineNumber: 101,
+                lineNumber: 107,
                 columnNumber: 9
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-        lineNumber: 24,
+        lineNumber: 30,
         columnNumber: 5
     }, this);
 }
@@ -2331,12 +2332,12 @@ function LeadershipCard({ item, index }) {
                             className: "w-5 h-5 text-purple-600"
                         }, void 0, false, {
                             fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                            lineNumber: 129,
+                            lineNumber: 135,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                        lineNumber: 128,
+                        lineNumber: 134,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2346,7 +2347,7 @@ function LeadershipCard({ item, index }) {
                                 children: item.title
                             }, void 0, false, {
                                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                                lineNumber: 132,
+                                lineNumber: 138,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2354,19 +2355,19 @@ function LeadershipCard({ item, index }) {
                                 children: item.organization
                             }, void 0, false, {
                                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                                lineNumber: 133,
+                                lineNumber: 139,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                        lineNumber: 131,
+                        lineNumber: 137,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                lineNumber: 127,
+                lineNumber: 133,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2378,7 +2379,7 @@ function LeadershipCard({ item, index }) {
                             size: 14
                         }, void 0, false, {
                             fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                            lineNumber: 139,
+                            lineNumber: 145,
                             columnNumber: 11
                         }, this),
                         item.startDate,
@@ -2387,12 +2388,12 @@ function LeadershipCard({ item, index }) {
                     ]
                 }, void 0, true, {
                     fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                    lineNumber: 138,
+                    lineNumber: 144,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                lineNumber: 137,
+                lineNumber: 143,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -2408,7 +2409,7 @@ function LeadershipCard({ item, index }) {
                                 className: "mt-1.5 w-1.5 h-1.5 bg-purple-400 rounded-full flex-shrink-0"
                             }, void 0, false, {
                                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                                lineNumber: 151,
+                                lineNumber: 157,
                                 columnNumber: 15
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -2418,32 +2419,32 @@ function LeadershipCard({ item, index }) {
                                         children: prefix
                                     }, void 0, false, {
                                         fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                                        lineNumber: 153,
+                                        lineNumber: 159,
                                         columnNumber: 17
                                     }, this),
                                     suffix
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                                lineNumber: 152,
+                                lineNumber: 158,
                                 columnNumber: 15
                             }, this)
                         ]
                     }, i, true, {
                         fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                        lineNumber: 150,
+                        lineNumber: 156,
                         columnNumber: 13
                     }, this);
                 })
             }, void 0, false, {
                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                lineNumber: 144,
+                lineNumber: 150,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-        lineNumber: 120,
+        lineNumber: 126,
         columnNumber: 5
     }, this);
 }
@@ -2463,7 +2464,7 @@ function Experience() {
                     subtitle: "实习经历与研究项目"
                 }, void 0, false, {
                     fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                    lineNumber: 172,
+                    lineNumber: 178,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2478,14 +2479,14 @@ function Experience() {
                                             className: "w-5 h-5 text-sky-600"
                                         }, void 0, false, {
                                             fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                                            lineNumber: 181,
+                                            lineNumber: 187,
                                             columnNumber: 15
                                         }, this),
                                         "实习经历"
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                                    lineNumber: 180,
+                                    lineNumber: 186,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2497,23 +2498,23 @@ function Experience() {
                                                 index: index
                                             }, void 0, false, {
                                                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                                                lineNumber: 187,
+                                                lineNumber: 193,
                                                 columnNumber: 19
                                             }, this)
                                         }, exp.id, false, {
                                             fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                                            lineNumber: 186,
+                                            lineNumber: 192,
                                             columnNumber: 17
                                         }, this))
                                 }, void 0, false, {
                                     fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                                    lineNumber: 184,
+                                    lineNumber: 190,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                            lineNumber: 179,
+                            lineNumber: 185,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2525,14 +2526,14 @@ function Experience() {
                                             className: "w-5 h-5 text-purple-600"
                                         }, void 0, false, {
                                             fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                                            lineNumber: 196,
+                                            lineNumber: 202,
                                             columnNumber: 15
                                         }, this),
                                         "研究项目"
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                                    lineNumber: 195,
+                                    lineNumber: 201,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2542,18 +2543,18 @@ function Experience() {
                                             index: index
                                         }, exp.id, false, {
                                             fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                                            lineNumber: 201,
+                                            lineNumber: 207,
                                             columnNumber: 17
                                         }, this))
                                 }, void 0, false, {
                                     fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                                    lineNumber: 199,
+                                    lineNumber: 205,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                            lineNumber: 194,
+                            lineNumber: 200,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2565,14 +2566,14 @@ function Experience() {
                                             className: "w-5 h-5 text-pink-600"
                                         }, void 0, false, {
                                             fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                                            lineNumber: 209,
+                                            lineNumber: 215,
                                             columnNumber: 15
                                         }, this),
                                         "个人账号运营"
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                                    lineNumber: 208,
+                                    lineNumber: 214,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2582,18 +2583,18 @@ function Experience() {
                                             index: index
                                         }, exp.id, false, {
                                             fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                                            lineNumber: 214,
+                                            lineNumber: 220,
                                             columnNumber: 17
                                         }, this))
                                 }, void 0, false, {
                                     fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                                    lineNumber: 212,
+                                    lineNumber: 218,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                            lineNumber: 207,
+                            lineNumber: 213,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2606,14 +2607,14 @@ function Experience() {
                                             className: "w-5 h-5 text-amber-600"
                                         }, void 0, false, {
                                             fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                                            lineNumber: 222,
+                                            lineNumber: 228,
                                             columnNumber: 15
                                         }, this),
                                         "校园与组织经历"
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                                    lineNumber: 221,
+                                    lineNumber: 227,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2623,35 +2624,35 @@ function Experience() {
                                             index: index
                                         }, item.id, false, {
                                             fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                                            lineNumber: 227,
+                                            lineNumber: 233,
                                             columnNumber: 17
                                         }, this))
                                 }, void 0, false, {
                                     fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                                    lineNumber: 225,
+                                    lineNumber: 231,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                            lineNumber: 220,
+                            lineNumber: 226,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-                    lineNumber: 177,
+                    lineNumber: 183,
                     columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-            lineNumber: 171,
+            lineNumber: 177,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Experience.tsx",
-        lineNumber: 170,
+        lineNumber: 176,
         columnNumber: 5
     }, this);
 }
@@ -3149,24 +3150,24 @@ function PortfolioCard({ item }) {
                                     className: "w-5 h-5 text-sky-600"
                                 }, void 0, false, {
                                     fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                                    lineNumber: 33,
+                                    lineNumber: 38,
                                     columnNumber: 15
                                 }, this) : item.links?.xhs ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$message$2d$circle$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__MessageCircle$3e$__["MessageCircle"], {
                                     className: "w-5 h-5 text-pink-600"
                                 }, void 0, false, {
                                     fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                                    lineNumber: 35,
+                                    lineNumber: 40,
                                     columnNumber: 15
                                 }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$gamepad$2d$2$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Gamepad2$3e$__["Gamepad2"], {
                                     className: "w-5 h-5 text-pink-600"
                                 }, void 0, false, {
                                     fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                                    lineNumber: 37,
+                                    lineNumber: 42,
                                     columnNumber: 15
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                                lineNumber: 26,
+                                lineNumber: 31,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3176,7 +3177,7 @@ function PortfolioCard({ item }) {
                                         children: item.title
                                     }, void 0, false, {
                                         fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                                        lineNumber: 41,
+                                        lineNumber: 46,
                                         columnNumber: 13
                                     }, this),
                                     item.role && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3184,19 +3185,19 @@ function PortfolioCard({ item }) {
                                         children: item.role
                                     }, void 0, false, {
                                         fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                                        lineNumber: 47,
+                                        lineNumber: 52,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                                lineNumber: 40,
+                                lineNumber: 45,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                        lineNumber: 25,
+                        lineNumber: 30,
                         columnNumber: 9
                     }, this),
                     item.featured && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -3204,13 +3205,13 @@ function PortfolioCard({ item }) {
                         children: "精选"
                     }, void 0, false, {
                         fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                        lineNumber: 52,
+                        lineNumber: 57,
                         columnNumber: 11
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                lineNumber: 24,
+                lineNumber: 29,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3218,7 +3219,7 @@ function PortfolioCard({ item }) {
                 children: item.description
             }, void 0, false, {
                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                lineNumber: 59,
+                lineNumber: 64,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3228,12 +3229,12 @@ function PortfolioCard({ item }) {
                         children: tag
                     }, tag, false, {
                         fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                        lineNumber: 66,
+                        lineNumber: 71,
                         columnNumber: 11
                     }, this))
             }, void 0, false, {
                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                lineNumber: 64,
+                lineNumber: 69,
                 columnNumber: 7
             }, this),
             item.links && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3249,20 +3250,20 @@ function PortfolioCard({ item }) {
                                 size: 14
                             }, void 0, false, {
                                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                                lineNumber: 95,
+                                lineNumber: 100,
                                 columnNumber: 15
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                 children: "小红书主页"
                             }, void 0, false, {
                                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                                lineNumber: 96,
+                                lineNumber: 101,
                                 columnNumber: 15
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                        lineNumber: 84,
+                        lineNumber: 89,
                         columnNumber: 13
                     }, this),
                     item.links.github && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -3275,20 +3276,20 @@ function PortfolioCard({ item }) {
                                 size: 16
                             }, void 0, false, {
                                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                                lineNumber: 106,
+                                lineNumber: 111,
                                 columnNumber: 15
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                 children: "代码"
                             }, void 0, false, {
                                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                                lineNumber: 107,
+                                lineNumber: 112,
                                 columnNumber: 15
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                        lineNumber: 100,
+                        lineNumber: 105,
                         columnNumber: 13
                     }, this),
                     item.links.demo && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -3301,20 +3302,20 @@ function PortfolioCard({ item }) {
                                 size: 14
                             }, void 0, false, {
                                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                                lineNumber: 117,
+                                lineNumber: 122,
                                 columnNumber: 15
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                 children: item.demoLabel || "演示"
                             }, void 0, false, {
                                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                                lineNumber: 118,
+                                lineNumber: 123,
                                 columnNumber: 15
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                        lineNumber: 111,
+                        lineNumber: 116,
                         columnNumber: 13
                     }, this),
                     item.links.pdf && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -3327,32 +3328,32 @@ function PortfolioCard({ item }) {
                                 size: 14
                             }, void 0, false, {
                                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                                lineNumber: 133,
+                                lineNumber: 138,
                                 columnNumber: 15
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                 children: item.pdfLabel || "下载附件"
                             }, void 0, false, {
                                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                                lineNumber: 134,
+                                lineNumber: 139,
                                 columnNumber: 15
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                        lineNumber: 122,
+                        lineNumber: 127,
                         columnNumber: 13
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                lineNumber: 82,
+                lineNumber: 87,
                 columnNumber: 9
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-        lineNumber: 14,
+        lineNumber: 19,
         columnNumber: 5
     }, this);
 }
@@ -3373,7 +3374,7 @@ function Portfolio() {
                     subtitle: "数据分析项目与游戏内容洞察"
                 }, void 0, false, {
                     fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                    lineNumber: 152,
+                    lineNumber: 157,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3389,7 +3390,7 @@ function Portfolio() {
                                         size: 18
                                     }, void 0, false, {
                                         fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                                        lineNumber: 169,
+                                        lineNumber: 174,
                                         columnNumber: 15
                                     }, this),
                                     "数据与研究",
@@ -3398,13 +3399,13 @@ function Portfolio() {
                                         children: "Data"
                                     }, void 0, false, {
                                         fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                                        lineNumber: 171,
+                                        lineNumber: 176,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                                lineNumber: 160,
+                                lineNumber: 165,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -3415,7 +3416,7 @@ function Portfolio() {
                                         size: 18
                                     }, void 0, false, {
                                         fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                                        lineNumber: 182,
+                                        lineNumber: 187,
                                         columnNumber: 15
                                     }, this),
                                     "游戏与内容",
@@ -3424,24 +3425,24 @@ function Portfolio() {
                                         children: "Game"
                                     }, void 0, false, {
                                         fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                                        lineNumber: 184,
+                                        lineNumber: 189,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                                lineNumber: 173,
+                                lineNumber: 178,
                                 columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                        lineNumber: 159,
+                        lineNumber: 164,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                    lineNumber: 158,
+                    lineNumber: 163,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3451,31 +3452,31 @@ function Portfolio() {
                                 item: item
                             }, item.id, false, {
                                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                                lineNumber: 192,
+                                lineNumber: 197,
                                 columnNumber: 37
                             }, this)),
                         activeTab === "game" && gameItems.map((item)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$CodeBuddy$2f$20260412150338$2f$resume$2d$website$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(PortfolioCard, {
                                 item: item
                             }, item.id, false, {
                                 fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                                lineNumber: 194,
+                                lineNumber: 199,
                                 columnNumber: 37
                             }, this))
                     ]
                 }, void 0, true, {
                     fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-                    lineNumber: 190,
+                    lineNumber: 195,
                     columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-            lineNumber: 151,
+            lineNumber: 156,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/CodeBuddy/20260412150338/resume-website/src/components/Portfolio.tsx",
-        lineNumber: 150,
+        lineNumber: 155,
         columnNumber: 5
     }, this);
 }
